@@ -1,6 +1,8 @@
 # P1X Zero IoT
 Raspberry Pi Zero IoT Device (Camera/OLED/Sensors/WiFi)
 
+![P1X Zero IoT - photo](https://i.imgur.com/Us57WzD.jpg)
+
 # Hardware list
 
 - Raspberry Pi Zero
